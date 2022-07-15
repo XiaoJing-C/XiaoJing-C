@@ -3,7 +3,7 @@
 ### I’m XiaoJing
 A Data Science And Big Data Technology Undergraduate Student
 - :paw_prints: I’m interested in CS
-- 🌱 Currently learning in JXNU
+- 🌱 Currently learning in SZU
 - :two_hearts: I’m looking to collaborate on Homyit Studio
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
